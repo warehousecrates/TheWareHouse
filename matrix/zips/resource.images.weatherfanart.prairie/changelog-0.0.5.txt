@@ -1,0 +1,14 @@
+v0.0.5
+- Add info file
+
+v0.0.4
+- No need to store images in separate folders
+
+v0.0.3
+- Add compile flag for packaging
+
+v0.0.2
+- Compress into XBT file
+
+v0.0.1
+- Initial release
